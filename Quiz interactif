@@ -1,4 +1,5 @@
-#!/bin/bash  # Indique que le script doit être exécuté avec Bash
+#!/bin/bash  
+# Indique que le script doit être exécuté avec Bash
 
 # Initialisation du score et du nombre total de questions
 score=0
